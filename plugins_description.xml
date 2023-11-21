@@ -1,0 +1,9 @@
+<library path="hsr_trajectory_publisher_gui">
+  <class name="hsr_trajectory_publisher_gui/HeadTrajectoryPublisher" type="hsr_trajectory_publisher_gui::HeadTrajectoryPanel" base_class_type="rviz_common::Panel">
+    <description>head trajectory panel</description>
+  </class>
+
+  <class name="hsr_trajectory_publisher_gui/ArmTrajectoryPublisher" type="hsr_trajectory_publisher_gui::ArmTrajectoryPanel" base_class_type="rviz_common::Panel">
+    <description>arm trajectory panel</description>
+  </class>
+</library>
